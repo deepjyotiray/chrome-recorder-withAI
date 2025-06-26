@@ -1,0 +1,12 @@
+{
+  "downloadsDir": "C:/Users/deepjyotiray/Downloads",
+  "cypressTestDir": "C:/Users/deepjyotiray/source/repos/chr-urr-test-cypress/RecordedTests/Cypress",
+  "seleniumTestDir": "C:/Users/deepjyotiray/source/repos/comp-ui-tests/src/COMP.XUnit.Test/Test/BulkDeleteTests",
+  "cypressPageObjectDir": "C:/Users/deepjyotiray/source/repos/chr-urr-test-cypress/RecordedPageObjects/Cypress",
+  "seleniumPageObjectDir": "C:/Users/deepjyotiray/source/repos/chr-urr-test-cypress/RecordedPageObjects/Selenium",
+  "archiveDir": "C:/Users/deepjyotiray/source/repos/chr-urr-test-cypress/RecordedActions",
+  "seleniumTestsDir": "C:/Users/deepjyotiray/source/repos/comp-ui-tests/src/COMP.XUnit.Test/Test/BulkDeleteTests",
+  "seleniumTestPath": "C:/Users/deepjyotiray/source/repos/comp-ui-tests/src/COMP.XUnit.Test/Test/BulkDeleteTests/BulkSalaryDeletionTests.cs",
+  "seleniumStepDefPath": "C:/Users/deepjyotiray/source/repos/comp-ui-tests/src/COMP.XUnit.Test/Test/BulkDeleteTests/BulkDeleteStepDefinition.cs",
+  "seleniumPomPath": "C:/Users/deepjyotiray/source/repos/comp-ui-tests/src/COMP.XUnit.Test/Test/BulkDeleteTests/BulkDeletePOM.cs"
+}
